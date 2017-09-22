@@ -1,5 +1,6 @@
 ## CHANGELOG
 
+* **2017-09-25** - Added <html> and <body> tags in index.html.
 * **2017-09-24** - Created the readme file.
 
 ## COPYRIGHT
